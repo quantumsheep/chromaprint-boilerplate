@@ -1,0 +1,3 @@
+[submodule "libs/chromaprint"]
+	path = libs/chromaprint
+	url = https://github.com/acoustid/chromaprint.git
